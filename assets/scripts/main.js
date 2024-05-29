@@ -2,12 +2,12 @@
 
 // CONSTANTS
 const RECIPE_URLS = [
-    'https://adarsh249.github.io/Lab8-Starter/recipes/1_50-thanksgiving-side-dishes.json',
-    'https://adarsh249.github.io/Lab8-Starter/recipes/2_roasting-turkey-breast-with-stuffing.json',
-    'https://adarsh249.github.io/Lab8-Starter/recipes/3_moms-cornbread-stuffing.json',
-    'https://adarsh249.github.io/Lab8-Starter/recipes/4_50-indulgent-thanksgiving-side-dishes-for-any-holiday-gathering.json',
-    'https://adarsh249.github.io/Lab8-Starter/recipes/5_healthy-thanksgiving-recipe-crockpot-turkey-breast.json',
-    'https://adarsh249.github.io/Lab8-Starter/recipes/6_one-pot-thanksgiving-dinner.json',
+    'https://ssgadient.github.io/cse110-lab8/recipes/1_50-thanksgiving-side-dishes.json',
+    'https://ssgadient.github.io/cse110-lab8/recipes/2_roasting-turkey-breast-with-stuffing.json',
+    'https://ssgadient.github.io/cse110-lab8/recipes/3_moms-cornbread-stuffing.json',
+    'https://ssgadient.github.io/cse110-lab8/recipes/4_50-indulgent-thanksgiving-side-dishes-for-any-holiday-gathering.json',
+    'https://ssgadient.github.io/cse110-lab8/recipes/5_healthy-thanksgiving-recipe-crockpot-turkey-breast.json',
+    'https://ssgadient.github.io/cse110-lab8/recipes/6_one-pot-thanksgiving-dinner.json',
 ];
 
 // Run the init() function when the page has loaded
@@ -63,7 +63,7 @@ function initializeServiceWorker() {
         console.log('ServiceWorker registration successful');
 
       } catch(error) {
-        
+
         // B5. TODO - In the event that the service worker registration fails, console
         //            log that it has failed.
         console.error('ServiceWorker registration failed: ', error);
