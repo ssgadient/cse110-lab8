@@ -2,7 +2,7 @@
     "name": "https://github.com/ssgadient/cse110-lab8",
     "short_name": "Stefan Gadient",
     "description": "Progressive Web App Test",
-    "start_url": "https://ssgadient.github.io/cse110-lab8",
+    "start_url": "./index.html",
     "display": "standalone",
     "background_color": "##D3D3D3",
     "theme_color": "ADD8E6",
