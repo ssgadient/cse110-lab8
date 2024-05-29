@@ -4,8 +4,8 @@
     "description": "Progressive Web App Test",
     "start_url": "./index.html",
     "display": "standalone",
-    "background_color": "##D3D3D3",
-    "theme_color": "ADD8E6",
+    "background_color": "#D3D3D3",
+    "theme_color": "#ADD8E6",
     "icons": [
       {
         "src": "/assets/images/icons/icon-192x192.png",
